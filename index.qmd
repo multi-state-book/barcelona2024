@@ -2,10 +2,25 @@
 title: "Multi-state models: Rates, risks, and pseudo-values"
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+You can download everything in one zip file
 
 ```{r}
-1 + 1
+#| label: downloadthis-all
+#| echo: false
+library(downloadthis)
+download_dir(
+  path = "MSB2024",
+  output_name = "MSB2024",
+  button_label = "Download all",
+  button_type = "success",
+  has_icon = TRUE,
+  icon = "fa fa-save",
+  self_contained = FALSE
+)
 ```
+\
+or as separate files
+
+[`pbc3.csv`](/data/pbc3.csv)\
+[`cphholter.csv`](/data/cphholter.csv)\
+[`affective.csv`](/data/affective.csv)\
