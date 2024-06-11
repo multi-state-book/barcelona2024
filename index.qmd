@@ -1,6 +1,6 @@
 ---
-title: "Course at XVII Summer School of the Master’s degree in Statistics and Operations Research"
-subtitle: "17-21 June 2024"
+title: "Multi-state models: Rates, risks, and pseudo-values"
+subtitle: "XVII Summer School of the Master’s degree in Statistics and Operations Research, 17-21 June 2024"
 author: Per Kragh Andersen & Henrik Ravn
 # date: last-modified
 ---
