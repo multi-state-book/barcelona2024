@@ -24,9 +24,6 @@ download_dir(
 \
 or as separate files
 
-## Lectures
-[Day 2](/MSB2024/MSB2.pdf)\
-
 ## Data
 [PBC3 trial in liver cirrhosis (`pbc3.csv`)](/MSB2024/pbc3.csv)\
 [Copenhagen Holter Study (`cphholter.csv`)](/MSB2024/cphholter.csv)\
