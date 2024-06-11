@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "R"
+  title: "Multi-state models: Rates, risks, and pseudo-values"
   navbar:
     left:
       - href: index.qmd

@@ -21,6 +21,6 @@ download_dir(
 \
 or as separate files
 
-[`pbc3.csv`](/data/pbc3.csv)\
-[`cphholter.csv`](/data/cphholter.csv)\
-[`affective.csv`](/data/affective.csv)\
+[`pbc3.csv`](/MSB2024/pbc3.csv)\
+[`cphholter.csv`](/MSB2024/cphholter.csv)\
+[`affective.csv`](/MSB2024/affective.csv)\
