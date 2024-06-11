@@ -5,7 +5,8 @@ author: Per Kragh Andersen & Henrik Ravn
 # date: last-modified
 ---
 
-You can download everything in one zip file
+You can download everything in one zip file or as single files.
+
 
 ```{r}
 #| label: downloadthis-all
@@ -21,10 +22,13 @@ download_dir(
   self_contained = FALSE
 )
 ```
-\
-or as separate files
+
+
+## Lectures
 
 ## Data
-[PBC3 trial in liver cirrhosis (`pbc3.csv`)](/MSB2024/pbc3.csv)\
-[Copenhagen Holter Study (`cphholter.csv`)](/MSB2024/cphholter.csv)\
-[Recurrent events in affective disordes (`affective.csv`)](/MSB2024/affective.csv)\
+[PBC3 trial in liver cirrhosis: `pbc3.csv`](/MSB2024/pbc3.csv)\
+[Copenhagen Holter Study: `cphholter.csv`](/MSB2024/cphholter.csv)\
+[Recurrent episodes in affective disordes: `affective.csv`](/MSB2024/affective.csv)\
+
+## Solution to excersises
