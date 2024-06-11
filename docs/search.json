@@ -9,8 +9,22 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Multi-state models: Rates, risks, and pseudo-values",
+    "title": "Course at XVII Summer School of the Master’s degree in Statistics and Operations Research",
     "section": "",
-    "text": "You can download everything in one zip file\n\n\n Download all\n\n\n\nor as separate files\npbc3.csv\ncphholter.csv\naffective.csv"
+    "text": "You can download everything in one zip file\nor as separate files"
+  },
+  {
+    "objectID": "index.html#lectures",
+    "href": "index.html#lectures",
+    "title": "Course at XVII Summer School of the Master’s degree in Statistics and Operations Research",
+    "section": "Lectures",
+    "text": "Lectures\nDay 2"
+  },
+  {
+    "objectID": "index.html#data",
+    "href": "index.html#data",
+    "title": "Course at XVII Summer School of the Master’s degree in Statistics and Operations Research",
+    "section": "Data",
+    "text": "Data\nPBC3 trial in liver cirrhosis (pbc3.csv)\nCopenhagen Holter Study (cphholter.csv)\nRecurrent events in affective disordes (affective.csv)"
   }
 ]

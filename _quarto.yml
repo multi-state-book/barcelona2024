@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Multi-state models: Rates, risks, and pseudo-values"
+  title: "Course: Multi-state models: Rates, risks, and pseudo-values"
   navbar:
     left:
       - href: index.qmd
@@ -15,6 +15,3 @@ format:
     theme: cosmo
     css: styles.css
     toc: true
-
-
-

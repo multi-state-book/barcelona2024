@@ -1,5 +1,8 @@
 ---
-title: "Multi-state models: Rates, risks, and pseudo-values"
+title: "Course at XVII Summer School of the Master’s degree in Statistics and Operations Research"
+subtitle: "17-21 June 2024"
+author: Per Kragh Andersen & Henrik Ravn
+# date: last-modified
 ---
 
 You can download everything in one zip file
@@ -21,6 +24,10 @@ download_dir(
 \
 or as separate files
 
-[`pbc3.csv`](/MSB2024/pbc3.csv)\
-[`cphholter.csv`](/MSB2024/cphholter.csv)\
-[`affective.csv`](/MSB2024/affective.csv)\
+## Lectures
+[Day 2](/MSB2024/MSB2.pdf)\
+
+## Data
+[PBC3 trial in liver cirrhosis (`pbc3.csv`)](/MSB2024/pbc3.csv)\
+[Copenhagen Holter Study (`cphholter.csv`)](/MSB2024/cphholter.csv)\
+[Recurrent events in affective disordes (`affective.csv`)](/MSB2024/affective.csv)\
