@@ -7,7 +7,6 @@ author: Per Kragh Andersen & Henrik Ravn
 
 You can download everything in one zip file or as single files.
 
-
 ```{r}
 #| label: downloadthis-all
 #| echo: false
@@ -23,12 +22,17 @@ download_dir(
 )
 ```
 
+## Lectures & exercises
 
-## Lectures
+[Day 1: Introduction to multi-state models (non-parametric estimation)](/MSB2024/Day1-Intro.pdf)\
+[Day 2: Regression models for intensities (Cox)](/MSB2024/Day2-Cox.pdf)\
+[Day 3: Direct regression models for marginal parameters](/MSB2024/Day3-marginal.pdf)\
+[Day 4-5: Pseudo-values](/MSB2024/Day4-5-pseudo.pdf)\
+
+[Exercises](/MSB2024/Rex.pdf)\
 
 ## Data
+
 [PBC3 trial in liver cirrhosis: `pbc3.csv`](/MSB2024/pbc3.csv)\
 [Copenhagen Holter Study: `cphholter.csv`](/MSB2024/cphholter.csv)\
 [Recurrent episodes in affective disordes: `affective.csv`](/MSB2024/affective.csv)\
-
-## Solution to excersises

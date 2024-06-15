@@ -7,11 +7,11 @@
     "text": "You can download everything in one zip file or as single files."
   },
   {
-    "objectID": "index.html#lectures",
-    "href": "index.html#lectures",
+    "objectID": "index.html#lectures-exercises",
+    "href": "index.html#lectures-exercises",
     "title": "Multi-state models: Rates, risks, and pseudo-values",
-    "section": "Lectures",
-    "text": "Lectures"
+    "section": "Lectures & exercises",
+    "text": "Lectures & exercises\nDay 1: Introduction to multi-state models (non-parametric estimation)\nDay 2: Regression models for intensities (Cox)\nDay 3: Direct regression models for marginal parameters\nDay 4-5: Pseudo-values\n\nExercises"
   },
   {
     "objectID": "index.html#data",
@@ -19,12 +19,5 @@
     "title": "Multi-state models: Rates, risks, and pseudo-values",
     "section": "Data",
     "text": "Data\nPBC3 trial in liver cirrhosis: pbc3.csv\nCopenhagen Holter Study: cphholter.csv\nRecurrent episodes in affective disordes: affective.csv"
-  },
-  {
-    "objectID": "index.html#solution-to-excersises",
-    "href": "index.html#solution-to-excersises",
-    "title": "Multi-state models: Rates, risks, and pseudo-values",
-    "section": "Solution to excersises",
-    "text": "Solution to excersises"
   }
 ]
