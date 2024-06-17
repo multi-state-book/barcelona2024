@@ -2,7 +2,7 @@
 title: "Multi-state models: Rates, risks, and pseudo-values"
 subtitle: "XVII Summer School of the Master’s degree in Statistics and Operations Research, 17-21 June 2024"
 author: Per Kragh Andersen & Henrik Ravn
-# date: last-modified
+date: last-modified
 ---
 
 You can download everything in one zip file or as single files.
@@ -30,6 +30,7 @@ download_dir(
 [Day 4-5: Pseudo-values](/MSB2024/Day4-5-pseudo.pdf)\
 
 [Exercises](/MSB2024/Rex.pdf)\
+[Exercises & solutions day 1](/MSB2024/Rex1.pdf)\
 
 ## Data
 
